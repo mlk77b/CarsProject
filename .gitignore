@@ -1,0 +1,12 @@
+# Fichiers sensibles
+config.php
+.env
+*.log
+
+# Dossiers de dépendances
+/vendor/
+/node_modules/
+
+# Images temporaires
+/tmp/
+/uploads/
