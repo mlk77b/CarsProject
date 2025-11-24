@@ -1,0 +1,22 @@
+.dblock100 {
+  width: 98%;
+  float: left;
+  justify-content: center;
+  margin-left: 17px;
+  height: 80vh;
+  background-size: cover;
+}
+h5 p {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+h4 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+
+  color: rgba(62, 133, 115, 0.945);
+}
+
+section nav.sticky {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
